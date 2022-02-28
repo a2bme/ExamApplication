@@ -1,0 +1,17 @@
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ExamTemplate.exe
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ExamTemplate.deps.json
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ExamTemplate.runtimeconfig.json
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ExamTemplate.dll
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ref\ExamTemplate.dll
+C:\Users\a2bme\source\repos\ExamTemplate\bin\Debug\net6.0-windows\ExamTemplate.pdb
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.csproj.AssemblyReference.cache
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.Form1.resources
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.csproj.GenerateResource.cache
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.AssemblyInfoInputs.cache
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.AssemblyInfo.cs
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.csproj.CoreCompileInputs.cache
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.dll
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ref\ExamTemplate.dll
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.pdb
+C:\Users\a2bme\source\repos\ExamTemplate\obj\Debug\net6.0-windows\ExamTemplate.genruntimeconfig.cache

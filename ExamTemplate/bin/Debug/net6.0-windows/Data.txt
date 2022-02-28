@@ -1,0 +1,61 @@
+ra gansxvavebaa int-sa da double-s shoris?
+ertidaigivea
+marto saxelia gansxvaveba
+int aris mteli ricxvebi da double aramteli
+double aris mteli ricxvebi da int aramteli
+3
+ras nishnavs FileMode.OpenOrCreate failebtan mushaobisas?
+gaxsnis fails
+gaxsnis an sheqmnis fails
+sheqmnis fails
+failebisas ar arsebobs maseti ragaca
+2
+ras aketebs try {} catch {}?
+kalatburts tamashobs
+kods gamocdnis rom shemdeg gaushva
+error-s daiwers ise rom programa ar shewyvitos
+aseti ram ar arsebobs
+3
+romel enebtan akavshireben c#-s?
+C++ da Java
+C++ da python
+python da Java
+arcerttan
+1
+ra gansxvavebaa for-sa da foreach-s shoris?
+ertidaigivea
+foreach ar arseobobs
+for amowmebs elementebs masivshi xolo foreach-s aqvs sami piroba
+foreach amowmebs elementebs masivshi xolo for-s aqvs sami piroba
+4
+ra gansxvavebaa private-sa da public-s shoris clasebshi?
+aseti ram ar arsebobs
+public shegidzlia clasis gareshe gamoiyeno xolo private mxolod klasis shignit
+private da public ar aris klasebshi
+public internetshi aitvirteba da private failebshi chaiwereba
+2
+rogor shemovitanot int ekranidan
+int n = Convert.ToInt32(Console.ReadLine());
+int n = Console.ReadLine();
+int n = Console.Read();
+int-s ver shemoitan ekranidan
+1
+romeli funqciit shegvidzlia davamatot variable ArrayList-shi?
+pushback()
+Add()
+Enqueue()
+ArrayList-s ar aqvs variable-s damatebis funqcia
+2
+romel wels sheiqmna c#?
+1998
+2007
+2000
+2002
+3
+ras agnishnavs '\n'?
+xazis dasasruls (enter)
+daxrili xazi da n
+aseti ram ar arsebobs
+igivea rac N
+1
+
